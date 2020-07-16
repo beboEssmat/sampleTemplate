@@ -1,0 +1,87 @@
+/*About*/
+
+.bread
+{
+    margin-top: 72px; 
+    background: #f5f5f5;
+    width: 100%;
+   
+    
+}
+.breadcrumb
+{
+    margin: 0;
+    padding: 10px 0
+}
+.gear {margin-top: 41px;}
+.about-us{margin-bottom: 0}
+.about h1 {font-weight: bold; font-size: 62px;}
+.about hr { width: 70%; }
+.about .lead {font-size: 20px}
+
+.icon .font h2 {font-weight: bold}
+
+.icon .font p {margin-bottom: 50px;}
+.man {background: #EEE;min-height: 500px;}
+.man img {margin-top: 30px;}
+.man .h1 {margin-top: 100px;}
+.man button {background-color: #333;border: 1px solid #333;display: inline-block; margin-bottom: 20px;}
+
+/*FAQ*/
+
+.faq {
+    padding: 40px 0
+}
+
+
+.faq .panel-heading a:after,
+.faq .panel:first-child .panel-heading a.collapsed:after 
+
+{
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #444;
+}
+
+
+
+.faq .panel-heading a.collapsed:after
+
+
+ 
+{
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+    float: right;
+    color: #999;
+}
+
+.faq .panel:first-child .panel-heading a:after  
+{
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #444;
+}
+
+.faq .panel:first-child .panel-heading a.collapsed:after  
+{
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+    float: right;
+    color: #999;
+}
+
+
+
+/*.faq .panel:first-child .panel-heading a.collapsed:after  
+{
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+    float: right;
+    color: #999;
+}*/
+
+
+
